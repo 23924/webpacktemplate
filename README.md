@@ -1,1 +1,1 @@
-# webpacktemplate
+# md-webpack-boilerplate
